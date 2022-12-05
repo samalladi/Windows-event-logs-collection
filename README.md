@@ -4,4 +4,4 @@ The below powershell script is very useful during Incident reponse. It grabs nec
 "Bits-Client Operational", "TaskScheduler Operational", 
 "Windows PowerShell Operational", "Windows Defender Operational", "Windows Powershell"), netstat, firewall rules, process, scheduled tasks, services etc..
 
-All these are collected and placed on Desktop under IR folder.
+All these are collected and placed on Desktop under IR folder. Please feel free to add or modify to this script.
